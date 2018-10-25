@@ -12,5 +12,9 @@ public void create()
 {
 	System.out.println("Testing");
 }
+public void Test()
+{
+	System.out.println("Modify Test");
+}
 }
 
