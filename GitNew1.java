@@ -16,5 +16,10 @@ public void Test()
 {
 	System.out.println("Modify Test");
 }
+public void change()
+{
 }
+
+}
+
 
