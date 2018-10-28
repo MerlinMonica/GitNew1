@@ -21,6 +21,10 @@ public void change()
 	System.out.println("adding method in Branch1");
 }
 
+public void secmerge()
+{
 }
+}
+
 
 
